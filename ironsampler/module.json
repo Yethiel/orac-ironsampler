@@ -10,9 +10,9 @@
         ["pitch","pb_range","Pb Range",0,48,2],
 
 	["time","e_attack","Attack",1,2000,1],
-        ["time","e_decay","Decay",1,4000,500],
-        ["pct","e_sustain","Sustain",0,100,50],
-        ["time","e_release","Release",1,4000,500]
+        ["time","e_decay","Decay",1,4000,2000],
+        ["pct","e_sustain","Sustain",0,100,70],
+        ["time","e_release","Release",1,10000,5000]
     ],
     "pages" : [ 
         ["pg_main","Main",["n_speed","n_mod","n_start","n_dur"]],
